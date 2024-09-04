@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Josh Levy!
 
-<!--
-**jml312/jml312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer** | 🌎 Boston, MA | 💻 Fullstack Developer
 
-Here are some ideas to get you started:
+I'm a A fullstack developer with a passion for creating smooth, performant, and intuitive web applications. My expertise spans across front-end and back-end technologies, and I love working on projects that drive real-world impact. I’m constantly seeking opportunities to grow, innovate, and make meaningful contributions to both open-source and professional projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack:
+- **Languages:** JavaScript, Python, Java, C++, R, Bash, MATLAB
+- **Front-End:** React.js, TypeScript, React Native, HTML, CSS, Tailwind, Angular.js, Vue.js
+- **Back-End:** AWS (Lambda, RDS, DynamoDB), Node.js, SQL, MongoDB, Django, Flask
+- **Tools:** Git, Docker, Jenkins, Cypress, Jest, Selenium
+
+### 🌟 Notable Projects:
+- **[Forecast](https://github.com/jml312/forecast)**: A weather-themed homework tracker built with React Native and Supabase.
+- **[Portfolio Analytics](https://dashboard.joshlevy.io)**: A real-time web dashboard showing visitor insights using Next.js and Sanity.io.
+- **[Apartments Tracker](https://github.com/jml312/check_equity_apartments)**: Python-based tool to monitor and report daily changes in apartment listings.
+- **[Soundcheck](https://github.com/jml312/soundcheck)**: A music-sharing platform with a sleek UI using Next.js and Sanity.io.
+
+### 🌱 Currently Learning:
+- **Machine Learning** and **Natural Language Processing**
+- Advanced cloud solutions on **AWS**
+
+### 👨‍🏫 Mentorship & Leadership:
+- **Capital One Coders** Mentor | Teaching HTML & CSS to middle schoolers
+- **CodePath** Interview Coach | Helping students excel in technical interviews
