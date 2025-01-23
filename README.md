@@ -5,7 +5,7 @@
 I'm a fullstack developer with a passion for creating smooth, performant, and intuitive web applications. My expertise spans across front-end and back-end technologies, and I love working on projects that drive real-world impact. I’m constantly seeking opportunities to grow, innovate, and make meaningful contributions to both open-source and professional projects.
 
 ### 🛠 Tech Stack:
-- **Languages:** JavaScript, Python, Java, C++, R, Bash, MATLAB
+- **Languages:** JavaScript, Python, Java, Rust, C++, R, Bash, MATLAB
 - **Front-End:** React.js, TypeScript, React Native, HTML, CSS, Tailwind, Angular.js, Vue.js
 - **Back-End:** AWS (Lambda, RDS, DynamoDB), Node.js, SQL, MongoDB, Django, Flask
 - **Tools:** Git, Docker, Jenkins, Cypress, Jest, Selenium
