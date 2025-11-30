@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Josh Levy!
 
-🚀 **Software Engineer** | 🌎 Palo Alto, CA | 💻 Fullstack Developer
+🚀 **Senior Software Engineer** | 🌎 Palo Alto, CA | 💻 Fullstack Developer
 
 I'm a fullstack developer with a passion for creating smooth, performant, and intuitive web applications. My expertise spans across front-end and back-end technologies, and I love working on projects that drive real-world impact. I’m constantly seeking opportunities to grow, innovate, and make meaningful contributions to both open-source and professional projects.
 
